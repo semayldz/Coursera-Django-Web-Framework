@@ -1,3 +1,3 @@
 # Coursera-Django-Web-Framework
-The django project I uploaded for the final assignment in the Djnago Web Framework course on Coursera is the littlelemon folder. 
-In the Final Assessment.md file, the steps that we need to complete for the assignment are written.
+The littlelemon folder is the django project I uploaded for the final assignment in the Django Web Framework course on Coursera. 
+The Final Assessment.md file contains the steps we need to complete for the assignment.
